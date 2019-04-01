@@ -24,7 +24,6 @@ for (let i = 0; i < arry.length; i++) {
 }
 
 // for in   一般使用 for-in 循环对象
-
 for(let key in newIcuObj) {
     console.log(key, newIcuObj[key]);
 }
